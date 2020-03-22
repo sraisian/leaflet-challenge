@@ -100,6 +100,6 @@ function colorRange(magnituge) {
   
   // Scale Marker Size for circleMarker
 function markerSize(magnituge) {
-    return magnituge*6;
+    return magnituge*5;
 };
   
